@@ -16,7 +16,7 @@
 		"react-hot-loader": "^4.13.0",
 		"serve": "11.3.2",
 		"ts-loader": "^9.1.2",
-		"typescript": "^4.2.4",
+		"typescript": "4.7.4",
 		"webpack": "^5.67.0",
 		"webpack-cli": "^4.9.2",
 		"webpack-dev-server": "^4.7.3"
@@ -31,6 +31,7 @@
 		"@chakra-ui/react": "^1.8.1",
 		"@emotion/react": "^11.7.1",
 		"@emotion/styled": "^11.6.0",
+		"@r2wc/react-to-web-component": "^2.0.3",
 		"dotenv": "^14.3.2",
 		"framer-motion": "^5.6.0",
 		"react": "^18.2.0",
